@@ -1,3 +1,10 @@
+/*
+ *   Silver–Pohlig–Hellman Discrete Logarithm algorithm 
+ *   with usage of Pollard's rho factorization and 
+ *   Baby-step Giant-step algorithm in 'leafs' 
+ */
+
+
 #include <gmp.h>
 #include <iostream>
 #include <string>
